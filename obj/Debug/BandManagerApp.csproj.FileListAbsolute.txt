@@ -1,0 +1,9 @@
+C:\Users\48508\Desktop\Dokumenty na studia\TOwAM\BandManagerApp\bin\Debug\BandManagerApp.exe.config
+C:\Users\48508\Desktop\Dokumenty na studia\TOwAM\BandManagerApp\bin\Debug\BandManagerApp.exe
+C:\Users\48508\Desktop\Dokumenty na studia\TOwAM\BandManagerApp\bin\Debug\BandManagerApp.pdb
+C:\Users\48508\Desktop\Dokumenty na studia\TOwAM\BandManagerApp\obj\Debug\BandManagerApp.csprojAssemblyReference.cache
+C:\Users\48508\Desktop\Dokumenty na studia\TOwAM\BandManagerApp\obj\Debug\BandManagerApp.BandManager.resources
+C:\Users\48508\Desktop\Dokumenty na studia\TOwAM\BandManagerApp\obj\Debug\BandManagerApp.Properties.Resources.resources
+C:\Users\48508\Desktop\Dokumenty na studia\TOwAM\BandManagerApp\obj\Debug\BandManagerApp.csproj.GenerateResource.cache
+C:\Users\48508\Desktop\Dokumenty na studia\TOwAM\BandManagerApp\obj\Debug\BandManagerApp.exe
+C:\Users\48508\Desktop\Dokumenty na studia\TOwAM\BandManagerApp\obj\Debug\BandManagerApp.pdb
