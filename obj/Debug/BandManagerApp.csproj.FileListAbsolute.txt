@@ -7,3 +7,5 @@ C:\Users\48508\Desktop\Dokumenty na studia\TOwAM\BandManagerApp\obj\Debug\BandMa
 C:\Users\48508\Desktop\Dokumenty na studia\TOwAM\BandManagerApp\obj\Debug\BandManagerApp.csproj.GenerateResource.cache
 C:\Users\48508\Desktop\Dokumenty na studia\TOwAM\BandManagerApp\obj\Debug\BandManagerApp.exe
 C:\Users\48508\Desktop\Dokumenty na studia\TOwAM\BandManagerApp\obj\Debug\BandManagerApp.pdb
+C:\Users\48508\Desktop\Dokumenty na studia\TOwAM\BandManagerApp\bin\Debug\Database.mdf
+C:\Users\48508\Desktop\Dokumenty na studia\TOwAM\BandManagerApp\bin\Debug\Database_log.ldf
